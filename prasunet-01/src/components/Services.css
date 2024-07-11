@@ -1,0 +1,42 @@
+#services {
+  height: 84.5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  background: transparent;
+  }
+  .service
+  {
+    display: grid;
+    justify-content: center;
+  align-items: center;
+
+  }
+  .services-content {
+    max-width: 700px;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  .services-content h2 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .services-content p {
+    font-size: 35px;
+    margin-bottom: 10px;
+  }
+  
+  .services-content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .services-content ul li {
+    margin-bottom: 5px;
+    font-size: 30px;
+  }
+  

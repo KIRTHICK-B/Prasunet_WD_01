@@ -1,0 +1,25 @@
+#home {
+    height: 84.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background: transparent;
+  }
+  .home-content {
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .home-content h1 {
+    font-size: 60px;
+   
+    color: white;
+  }
+  
+  .home-content p {
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  

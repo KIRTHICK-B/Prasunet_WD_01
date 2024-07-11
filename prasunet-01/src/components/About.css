@@ -1,0 +1,33 @@
+#about {
+  height: 84.5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  background: transparent;
+  
+  }
+  .abouts
+  {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .about-content {
+    max-width: 700px;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  .about-content h2 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .about-content p {
+    font-size: 35px;
+    margin-bottom: 10px;
+  }
+  
